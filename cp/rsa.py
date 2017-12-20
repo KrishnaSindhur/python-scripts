@@ -24,7 +24,7 @@ def rsa(text, key, n):
     return rem
 
 """ main function here will asks user to enter message and displays
-the decrypted message and checks for prime and also find gcd """
+the decrypted message and checks for prime and also find gcd. """
 
 def main():
     ct = []
