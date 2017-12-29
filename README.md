@@ -1,5 +1,5 @@
 # python-scripts
-python DS&amp;Algo, awsboto3 script
+python DS&amp;Algo, boto3 scripts for aws
 
 There are two folders<br>
 
